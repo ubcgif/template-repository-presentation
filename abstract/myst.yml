@@ -1,47 +1,52 @@
 version: 1
 project:
-  id: ubcgif-2023-heagy-oldenburg-3dem7
-  title: Impacts of magnetic permeability on electromagnetic data collected in settings with steel-cased wells
-  description: We consider a vertical wellbore and simulate time and frequency domain data on 3D cylindrical meshes.
-  keywords:
-    - Controlled source electromagnetics (CSEM)
-    - Downhole methods
-    - Numerical modelling
-    - Electrical properties
-    - Magnetic properties
+  # id: ubcgif-YEAR-AUTHORS-CONFERENCE
+  # title: TITLE
+  # description: DESCRIPTION
   authors:
-    - name: Lindsey J. Heagy
-      email: lheagy@eoas.ubc.ca
-      corresponding: true
-      orcid: 0000-0002-1551-5926
-      affiliation:
-        id: ubc
-        name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
-    - name: Douglas W. Oldenburg
-      affiliation: ubc
-      email: doug@eos.ubc.ca
-      orcid: 0000-0002-4327-2124
-  banner: banner.png
+    # - name: AUTHOR 1
+    #   email: EMAIL
+    #   corresponding: true
+    #   orcid: ORCID
+    #   affiliation:
+    #     id: ubc
+    #     name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
+    # - name: Lindsey J. Heagy
+    #   email: lheagy@eoas.ubc.ca
+    #   corresponding: true
+    #   orcid: 0000-0002-1551-5926
+    #   affiliation: ubc
+    # - name: Douglas W. Oldenburg
+    #   affiliation: ubc
+    #   email: doug@eos.ubc.ca
+    #   orcid: 0000-0002-4327-2124
+  # banner: banner.png
   thumbnail: thumbnail.png
-  subject: Electromagnetics
+  # subject: Electromagnetics
   venue:
-    title: The 7th International Symposium on Three-Dimensional Electromagnetics
-    url: https://3dem-7.geosci.xyz/abstracts/Heagy-2023-3DEM-7.pdf
+    # title: CONFERENCE NAME
+    # url: CONFERENCE URL
   license: CC-BY-4.0
   open_access: true
-  # doi: https://3dem-7.geosci.xyz/abstracts/Heagy-2023-3DEM-7.pdf
+  # doi: DOI
   abbreviations:
-    DC: direct current
-    EM: electromagnetics
+    # DC: direct current
+    # EM: electromagnetics
   # github:
   # bibliography: []
+  # keywords:
+  #   - Controlled source electromagnetics (CSEM)
+  #   - Downhole methods
+  #   - Numerical modelling
+  #   - Electrical properties
+  #   - Magnetic properties
 site:
   template: article-theme
   actions:
-    - title: pdf
-      url: Heagy-2023-3DEM-7.pdf
-      static: true
-    - title: slides
-      url: presentation/Heagy-3DEM-7.pdf
-      static: true
-  domains: []
+    # - title: pdf
+    #   url: ARTICLE-NAME.pdf
+    #   static: true
+    # - title: slides
+    #   url: presentation/SLIDES-NAME.pdf
+    #   static: true
+  # domains: []
