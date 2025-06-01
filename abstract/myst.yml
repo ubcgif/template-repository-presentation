@@ -29,7 +29,7 @@ project:
   # license: CC-BY-4.0
   # open_access: true
   # doi: DOI
-  # date: DATE OF PRESENTATION
+  # date: YYYY-MM-DD
   abbreviations:
     # DC: direct current
     # EM: electromagnetics
